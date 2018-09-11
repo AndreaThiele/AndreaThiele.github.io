@@ -1,0 +1,288 @@
+body { 
+margin: 0px;
+}
+
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+#Logo{
+		background-image: url('img/1.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 120px;
+width: 120px;
+z-index: 1;
+float: right;
+margin-right: 40px;
+margin-top: 20px;
+}
+
+#link  {
+	font-family: calibri;
+	font-size: 22px;
+	margin-left: 95px;
+	text-decoration: none;
+	margin: 0px auto;
+}
+
+#link2{
+		text-decoration: none;		
+}
+
+#Hintergrund{
+		background-image: url('img/Test.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: 2;
+}
+#Hintergrund2 {
+		background-image: url('img/Test2.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+
+#Hintergrund3 {
+		background-image: url('img/Test3.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund4 {
+		background-image: url('img/Test3.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund5 {
+		background-image: url('img/Test4.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund6 {
+		background-image: url('img/Test4.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund7 {
+		background-image: url('img/Test5.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund8 {
+		background-image: url('img/Test3.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund9 {
+		background-image: url('img/Test7.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund10 {
+		background-image: url('img/Test6.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund11 {
+		background-image: url('img/Test8.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund12 {
+		background-image: url('img/Test3.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund13 {
+		background-image: url('img/Test9.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+#Hintergrund14 {
+		background-image: url('img/Test10.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+
+#Hintergrund15 {
+    background-image:url('img/11.png');
+    overflow:hidden;
+    text-indent:100%;
+    white-space:nowrap;
+	background-size: cover;
+	background-position: center center;
+	position: realtive;
+	top: 0;
+	bottom: 0;
+	height: 100vh;
+	z-index: -10;
+}
+
+#Hintergrund16 {
+		background-image: url('img/Über mich.png');
+	background-size: cover;
+	background-position: center center;
+position: realtive;
+top: 0;
+bottom: 0;
+height: 100vh;
+z-index: -10;
+}
+
+
+
+#container { 
+	width: 100%;
+	padding: 150px 0px;
+	margin: 20px 0px;
+}
+
+#card {
+	width: 90%;
+	box-sizing: 0px 0px 1px 1px #ccc;
+	position: relative;
+	margin: 0px auto;
+}
+
+#box{
+	width: 100%;
+	height: 300px;
+	padding: 0px;
+	background: white;
+	opacity: .2;
+	border-radius:10px;
+	margin: 0px;
+	 margin-top: 320px;
+}
+
+#content{
+	position:absolute;
+	width:90%;
+	top:30px;
+	left: 20px;
+	color: black;
+	font-size: 30px;
+	font-family: calibri;
+	 margin-top: 320px;
+
+}
+
+#naviabstand{
+	z-index:3;
+	height:160px;
+	position: absolute;
+	bottom:0;
+}
+
+#navi {
+	z-index: 4;
+	position: absolute;
+	bottom: 10px;
+	/*background: white;*/
+	opacity: .2;
+	font-family: calibri;
+	font-size: 30px;
+	margin-left: 95px;
+	text-decoration: none;
+	color: #f00;
+}
+
+#content2{
+	position:absolute;
+	width:90%;
+	top:30px;
+	left: 20px;
+	color: white;
+	font-size: 30px;
+	font-family: calibri;
+	 margin-top: 320px;
+
+}
+
